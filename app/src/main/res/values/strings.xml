@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TABLA DE MULTIPLICAR DEL 6</string>
+    <string name="titulocalculadora">TABLA DE MULTIPLICAR DEL 6</string>
+    <string name="resultado">TABLA DEL 6:
+    \n6x1=1
+    \n6x2=12
+    \n6X3=18
+    \n6X4=24
+    \n6X5=30
+    \n6X6=36
+    \n6X7=42
+    \n6X8=48
+    \n6X9=54
+    \n6X10=60</string>
+</resources>
